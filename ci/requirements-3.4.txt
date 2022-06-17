@@ -4,7 +4,7 @@ openpyxl
 xlsxwriter
 xlrd
 html5lib
-numpy==1.8.0
+numpy==1.21.0
 cython==0.20.2
 scipy==0.13.3
 numexpr==2.4
