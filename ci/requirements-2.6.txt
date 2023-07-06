@@ -8,7 +8,7 @@ numexpr==1.4.2
 sqlalchemy==0.7.4
 pymysql==0.6.0
 psycopg2==2.5
-scipy==0.11.0
+scipy==1.10.0
 statsmodels==0.4.3
 xlwt==0.7.5
 openpyxl==2.0.3

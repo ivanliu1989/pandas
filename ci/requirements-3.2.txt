@@ -9,6 +9,6 @@ tables==3.0.0
 matplotlib==1.2.1
 patsy==0.1.0
 lxml==3.2.1
-scipy==0.12.0
+scipy==1.10.0
 beautifulsoup4==4.2.1
 statsmodels==0.5.0
